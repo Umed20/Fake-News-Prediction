@@ -1,0 +1,6 @@
+Python 3.6+
+Libraries: 
+numpy
+pandas
+scikit-learn
+nltk
